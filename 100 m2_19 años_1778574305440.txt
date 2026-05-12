@@ -1,0 +1,12 @@
+
+Fecha:
+2026-05-12T08:25:05.440Z
+
+Bloque:
+100 m2
+
+Grupo:
+19 años
+
+Hash final:
+c13505bcedd7b5353cbc96a766848ae835d2be5ff55bce2436645301b8674d08
