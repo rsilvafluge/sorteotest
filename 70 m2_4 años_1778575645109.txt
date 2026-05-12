@@ -1,0 +1,12 @@
+
+Fecha:
+2026-05-12T08:47:25.109Z
+
+Bloque:
+70 m2
+
+Grupo:
+4 años
+
+Hash final:
+7373771bc47c3628414c0646d9101a8a5fd51299dbd54bb550991ff86d2e54f2
