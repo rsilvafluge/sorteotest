@@ -1,0 +1,12 @@
+
+Fecha:
+2026-05-12T12:59:12.014Z
+
+Bloque:
+MAQ 50 m2
+
+Grupo:
+0 años
+
+Hash final:
+ad83e9ab669251cbad268460ba59dc7a43ddc13fe4654db576bf5e0b42ae5a96
